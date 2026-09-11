@@ -2,6 +2,10 @@
 
 GSREC Nepal is a modern, dynamic web platform for a global education consultancy. It helps students explore international study opportunities, vocational training, and language preparation.
 
+## 🌐 Live Website
+
+- **Website:** [https://gsrecnepal.com.np/](https://gsrecnepal.com.np/)
+
 ## 🚀 Features
 
 - **Dynamic Content:** Managed through a customized Django Admin panel.
